@@ -1,0 +1,1054 @@
+product_category,product_sales,cost_price,selling_price,rating,discount
+Books,2135,360,668,1.7,76
+Grocery,2074,75,190,1.0,43
+Electronics,754,831,1111,4.3,84
+Home and Kitchen,2354,384,456,3.2,67
+Furniture,1709,554,662,2.7,89
+Clothing,1794,662,1018,3.8,12
+Beauty,769,351,411,3.9,75
+Toys and Games,1701,113,339,1.5,72
+Automotive,1811,21,368,1.7,86
+Electronics,921,961,1380,4.6,59
+Home and Kitchen,1774,561,883,2.4,12
+Toys and Games,2014,45,419,1.1,50
+Toys and Games,301,676,945,4.6,29
+Beauty,1689,664,792,4.1,26
+Books,2095,984,1122,1.4,19
+Electronics,826,488,788,4.2,52
+Automotive,530,349,442,2.5,16
+Beauty,1546,211,291,2.1,59
+Electronics,824,62,375,2.5,58
+Electronics,1194,892,1048,2.5,29
+Clothing,2167,894,1265,2.5,61
+Books,457,933,1202,3.9,27
+Furniture,513,488,680,2.5,12
+Beauty,1773,974,1120,4.1,64
+Electronics,1261,100,266,3.0,63
+Automotive,2419,945,1149,2.1,21
+Furniture,2222,639,1004,2.4,81
+Electronics,1580,520,833,1.6,31
+Grocery,2278,327,401,3.6,25
+Books,2172,466,943,1.5,36
+Clothing,1745,123,604,1.7,46
+Beauty,1892,694,831,1.3,37
+Automotive,1097,333,806,3.0,22
+Electronics,1022,64,377,2.5,33
+Furniture,1891,782,986,4.8,89
+Books,992,60,214,1.6,32
+Home and Kitchen,1871,263,332,3.1,10
+Electronics,2075,837,1223,4.6,78
+Home and Kitchen,1128,573,810,1.1,24
+Home and Kitchen,1214,780,1106,4.7,88
+Sports and Outdoors,1396,630,1075,1.4,68
+Clothing,1608,953,1323,4.4,20
+Books,2464,108,296,2.1,14
+Clothing,1529,42,335,5.0,61
+Beauty,677,397,727,2.6,75
+Automotive,392,848,1210,2.1,35
+Home and Kitchen,1693,835,1255,2.1,83
+Beauty,1308,458,814,3.2,59
+Automotive,1091,585,806,3.2,14
+Furniture,1158,203,568,4.3,90
+Grocery,2135,380,737,3.7,88
+Toys and Games,1795,327,668,4.6,75
+Toys and Games,1012,178,541,2.5,89
+Grocery,1548,548,873,1.9,65
+Beauty,1574,382,760,3.7,48
+Beauty,1989,476,658,1.9,16
+Grocery,2265,535,688,1.5,42
+Toys and Games,2020,703,1005,2.9,28
+Clothing,1733,559,710,1.0,34
+Home and Kitchen,903,625,886,4.8,88
+Home and Kitchen,1781,918,1400,3.2,12
+Home and Kitchen,934,276,336,2.5,57
+Home and Kitchen,2025,172,340,4.2,73
+Toys and Games,594,939,1117,3.0,32
+Sports and Outdoors,833,563,970,2.0,66
+Home and Kitchen,714,661,916,4.8,68
+Automotive,1905,572,922,3.4,16
+Electronics,2015,131,598,2.2,67
+Sports and Outdoors,404,462,851,1.3,51
+Toys and Games,1922,34,261,4.5,29
+Grocery,1102,805,1206,1.8,53
+Furniture,746,448,730,1.5,71
+Sports and Outdoors,1120,319,816,1.2,88
+Automotive,455,140,580,4.1,80
+Beauty,2018,414,611,1.6,28
+Furniture,471,647,731,3.4,16
+Sports and Outdoors,2435,139,618,1.5,59
+Grocery,2433,682,765,3.4,37
+Home and Kitchen,338,732,878,4.9,50
+Sports and Outdoors,1332,621,712,3.1,63
+Sports and Outdoors,453,181,406,1.5,55
+Sports and Outdoors,979,698,1108,3.4,85
+Automotive,1486,619,718,1.1,27
+Toys and Games,997,888,1287,3.8,46
+Home and Kitchen,918,26,295,3.6,21
+Clothing,1813,611,707,2.1,75
+Furniture,521,988,1087,3.4,56
+Toys and Games,1291,401,778,3.4,77
+Toys and Games,1538,450,860,4.0,57
+Sports and Outdoors,2292,882,1122,2.9,52
+Electronics,1992,532,999,1.7,61
+Sports and Outdoors,1246,726,1225,2.4,11
+Furniture,1472,20,189,2.5,44
+Furniture,2250,395,559,1.0,67
+Clothing,2087,24,94,2.4,67
+Sports and Outdoors,1173,657,929,1.9,80
+Home and Kitchen,1852,952,1340,3.1,56
+Toys and Games,1685,608,906,3.6,37
+Sports and Outdoors,2342,614,892,3.8,52
+Grocery,586,732,1210,2.5,60
+Home and Kitchen,2456,912,1098,4.7,77
+Sports and Outdoors,1073,245,347,4.7,51
+Sports and Outdoors,1001,869,1232,4.8,65
+Automotive,1903,181,659,2.7,79
+Home and Kitchen,427,824,1198,1.7,62
+Grocery,1113,175,415,4.5,25
+Beauty,994,342,789,3.6,43
+Automotive,2464,150,539,2.7,35
+Home and Kitchen,2481,656,804,2.5,39
+Clothing,724,164,607,1.2,53
+Clothing,1985,594,978,2.8,81
+Furniture,1761,719,891,5.0,32
+Books,576,59,270,1.7,33
+Home and Kitchen,1490,606,939,2.8,40
+Toys and Games,1219,382,501,3.4,13
+Clothing,2057,969,1069,1.9,64
+Clothing,2465,449,656,2.5,53
+Furniture,1670,595,1001,3.7,56
+Electronics,2227,627,1016,1.5,74
+Furniture,1109,463,646,1.0,32
+Sports and Outdoors,2180,726,994,1.9,87
+Toys and Games,1720,581,986,2.4,29
+Grocery,1751,293,437,3.3,29
+Grocery,1972,134,611,2.8,52
+Beauty,776,333,651,5.0,10
+Books,706,460,840,3.3,79
+Grocery,2261,50,298,2.8,27
+Clothing,2260,115,456,3.7,38
+Automotive,2351,163,347,3.4,13
+Furniture,2445,924,1160,2.3,82
+Grocery,377,427,537,2.8,58
+Automotive,1111,17,370,1.6,12
+Furniture,2353,837,1076,2.5,30
+Furniture,2057,887,1117,1.3,89
+Clothing,974,262,577,1.7,26
+Toys and Games,858,174,515,5.0,33
+Furniture,1907,523,883,3.9,71
+Grocery,2246,994,1433,2.7,47
+Sports and Outdoors,1813,931,1298,3.0,84
+Furniture,932,770,1250,3.8,14
+Furniture,1832,37,224,3.4,82
+Books,1803,470,637,4.3,32
+Furniture,1558,601,1056,3.5,69
+Furniture,525,400,606,3.2,69
+Electronics,725,523,1016,1.2,29
+Home and Kitchen,2167,845,970,1.8,49
+Automotive,1950,198,533,3.8,52
+Toys and Games,1829,797,1265,3.2,76
+Home and Kitchen,1810,743,1064,5.0,38
+Books,344,911,1198,3.7,67
+Toys and Games,2326,848,944,3.8,30
+Furniture,929,694,1049,3.4,15
+Books,1884,288,449,3.0,28
+Grocery,901,471,812,3.2,53
+Grocery,1059,159,526,4.2,67
+Grocery,2443,61,491,3.2,35
+Automotive,2259,465,885,4.7,76
+Automotive,506,290,618,2.3,70
+Home and Kitchen,1400,24,161,2.3,67
+Clothing,537,875,973,3.6,75
+Sports and Outdoors,2209,401,827,2.8,53
+Clothing,646,738,1202,3.7,77
+Automotive,1934,279,699,1.4,48
+Clothing,1277,53,208,3.5,49
+Toys and Games,1847,433,743,4.8,68
+Clothing,450,908,1239,2.4,47
+Toys and Games,1129,656,1150,2.2,51
+Furniture,389,400,879,4.5,49
+Home and Kitchen,1109,50,143,1.7,72
+Sports and Outdoors,971,191,501,2.4,85
+Sports and Outdoors,1106,12,194,3.5,69
+Furniture,1324,793,1101,4.5,56
+Furniture,2313,856,1110,1.9,34
+Books,1352,204,311,3.2,36
+Grocery,512,365,689,2.2,11
+Electronics,403,754,1103,5.0,38
+Furniture,829,503,880,3.8,36
+Furniture,2282,83,462,2.7,84
+Clothing,1714,450,780,3.2,12
+Home and Kitchen,1790,326,504,4.1,10
+Toys and Games,1305,875,1215,3.2,87
+Clothing,699,833,1140,4.5,39
+Toys and Games,2122,571,791,3.2,89
+Beauty,1087,932,1200,2.7,82
+Home and Kitchen,365,288,426,1.4,43
+Books,382,767,1097,1.4,77
+Home and Kitchen,1113,35,494,3.9,10
+Automotive,336,693,900,3.7,39
+Automotive,969,249,531,3.5,67
+Grocery,1185,617,810,3.5,41
+Electronics,1112,852,1249,1.3,89
+Toys and Games,2299,694,1127,2.7,18
+Sports and Outdoors,1050,192,558,4.5,16
+Books,1910,570,1029,3.2,37
+Books,697,824,911,1.7,75
+Automotive,2196,460,794,2.0,10
+Sports and Outdoors,1907,295,607,4.3,43
+Toys and Games,2118,942,1353,5.0,34
+Clothing,1042,915,1018,2.7,26
+Clothing,1827,721,1025,3.6,17
+Books,2120,522,755,1.4,57
+Electronics,1727,242,612,3.2,66
+Home and Kitchen,1482,412,480,3.9,44
+Grocery,1010,809,1190,4.3,72
+Beauty,1540,137,565,3.3,11
+Books,853,164,547,2.1,47
+Beauty,1090,573,833,2.6,47
+Sports and Outdoors,2139,481,923,3.7,31
+Electronics,927,60,530,1.2,19
+Home and Kitchen,2160,999,1054,3.2,24
+Clothing,1137,371,474,1.4,88
+Beauty,984,196,538,4.3,67
+Toys and Games,512,494,898,2.5,82
+Home and Kitchen,601,20,119,3.5,21
+Toys and Games,838,343,472,1.4,87
+Beauty,1066,440,664,3.5,31
+Clothing,2495,877,1032,4.9,77
+Automotive,1282,938,1038,1.8,63
+Sports and Outdoors,1800,111,432,3.6,54
+Home and Kitchen,671,420,734,2.8,73
+Sports and Outdoors,1346,851,1257,3.2,64
+Furniture,2434,613,998,4.4,75
+Books,950,777,1032,4.4,20
+Beauty,1098,466,595,3.7,34
+Toys and Games,687,185,297,2.6,71
+Beauty,1116,655,1101,1.8,67
+Grocery,559,980,1307,1.0,74
+Books,335,491,798,2.9,81
+Clothing,1789,12,470,2.8,77
+Toys and Games,711,977,1154,4.2,14
+Grocery,701,39,152,4.1,80
+Automotive,1153,935,1016,4.6,60
+Books,416,817,1022,2.2,28
+Sports and Outdoors,2051,173,427,5.0,59
+Sports and Outdoors,962,564,731,3.4,78
+Furniture,1860,208,387,2.8,49
+Electronics,1647,300,588,4.0,45
+Books,664,835,895,4.5,44
+Automotive,437,759,871,4.8,12
+Grocery,783,759,950,3.6,32
+Beauty,1926,642,810,3.9,44
+Sports and Outdoors,1219,316,567,3.2,67
+Clothing,996,580,1020,3.6,45
+Automotive,1182,475,595,1.9,22
+Furniture,2004,213,342,3.0,41
+Clothing,1165,478,905,4.9,33
+Books,1902,264,706,3.0,32
+Grocery,1924,973,1209,4.2,83
+Grocery,311,71,140,2.6,43
+Sports and Outdoors,2086,102,563,3.7,33
+Automotive,2243,735,980,2.7,71
+Electronics,727,178,367,3.2,29
+Books,1415,691,994,5.0,24
+Grocery,1042,738,824,3.9,22
+Electronics,2143,405,819,2.4,34
+Automotive,2432,900,1038,3.4,31
+Clothing,1446,55,225,2.5,47
+Automotive,1313,559,863,2.9,88
+Clothing,2094,146,387,3.2,74
+Electronics,2267,277,380,1.6,12
+Beauty,992,847,1180,3.8,24
+Beauty,445,229,542,4.9,26
+Clothing,1049,873,1318,3.3,16
+Sports and Outdoors,2227,720,991,2.8,15
+Home and Kitchen,1077,337,779,4.1,29
+Sports and Outdoors,2212,352,434,2.9,31
+Furniture,699,282,514,1.1,37
+Grocery,1356,315,528,1.4,43
+Sports and Outdoors,1398,923,995,1.2,37
+Books,399,116,614,1.5,86
+Electronics,1588,489,817,1.2,70
+Grocery,963,435,595,1.1,58
+Grocery,834,624,930,3.2,39
+Toys and Games,751,938,1164,1.9,82
+Furniture,1982,883,993,3.5,27
+Home and Kitchen,2221,227,316,2.6,57
+Grocery,2156,196,516,4.5,86
+Books,469,122,278,4.7,88
+Furniture,2212,177,297,2.8,22
+Home and Kitchen,1514,751,837,3.6,14
+Clothing,525,303,606,3.6,17
+Clothing,2126,959,1343,4.8,27
+Grocery,824,27,143,1.9,19
+Toys and Games,1877,768,974,4.9,71
+Automotive,1838,253,318,2.7,41
+Home and Kitchen,947,623,901,2.1,66
+Home and Kitchen,1094,266,383,1.8,40
+Sports and Outdoors,405,387,614,3.7,88
+Beauty,2446,127,201,3.3,23
+Automotive,1712,361,499,2.9,80
+Clothing,1746,425,534,1.7,89
+Sports and Outdoors,2093,517,631,3.8,13
+Clothing,2479,714,967,1.8,44
+Automotive,538,69,457,4.6,57
+Books,682,390,677,3.4,11
+Beauty,844,537,802,2.6,59
+Furniture,430,64,248,2.9,30
+Electronics,1080,798,1046,5.0,26
+Clothing,2380,220,383,4.9,15
+Grocery,1322,98,197,3.2,23
+Grocery,645,35,252,1.4,51
+Toys and Games,1089,189,676,3.8,68
+Home and Kitchen,741,905,1159,5.0,68
+Sports and Outdoors,822,936,1313,1.4,31
+Books,1515,843,969,4.2,20
+Toys and Games,616,399,708,2.3,61
+Clothing,2318,215,445,3.6,58
+Grocery,1988,925,1136,1.6,29
+Sports and Outdoors,306,790,1189,1.4,44
+Grocery,761,305,419,4.5,20
+Toys and Games,1994,88,169,3.7,30
+Electronics,2426,172,309,3.3,34
+Toys and Games,2173,575,862,4.5,52
+Automotive,1380,84,508,2.8,63
+Furniture,487,97,395,4.7,85
+Home and Kitchen,887,233,670,1.2,61
+Automotive,2034,385,507,3.4,73
+Beauty,423,525,576,3.9,83
+Automotive,1159,598,805,2.9,25
+Toys and Games,1624,423,534,5.0,85
+Home and Kitchen,1230,696,768,3.4,65
+Grocery,2178,990,1042,1.8,31
+Furniture,686,765,1212,3.3,84
+Sports and Outdoors,764,694,821,4.5,17
+Beauty,1723,958,1310,2.5,60
+Furniture,353,897,1326,3.1,21
+Automotive,866,644,717,2.7,42
+Beauty,2167,403,819,2.0,57
+Electronics,819,778,1071,4.4,33
+Furniture,1024,504,727,3.8,65
+Sports and Outdoors,1615,731,1132,4.8,43
+Beauty,585,703,848,1.0,80
+Automotive,880,147,375,1.3,80
+Furniture,2434,445,531,4.5,82
+Furniture,1895,672,784,1.9,50
+Home and Kitchen,2384,462,729,3.5,75
+Grocery,1814,23,239,4.0,43
+Books,1514,983,1096,4.1,59
+Toys and Games,800,451,528,3.5,38
+Sports and Outdoors,1145,989,1210,2.8,88
+Sports and Outdoors,783,148,583,2.0,48
+Sports and Outdoors,946,891,1130,3.9,63
+Home and Kitchen,2187,379,749,4.4,33
+Toys and Games,900,467,836,2.7,31
+Beauty,1737,291,465,1.2,64
+Clothing,2129,439,823,4.5,45
+Sports and Outdoors,1832,496,654,4.6,34
+Clothing,366,387,576,3.1,38
+Toys and Games,1771,159,546,2.1,51
+Electronics,1453,967,1181,2.7,74
+Electronics,1351,944,1389,3.9,54
+Beauty,1866,350,722,4.2,73
+Furniture,615,307,562,3.3,69
+Furniture,945,498,888,4.4,12
+Books,324,338,706,3.0,64
+Grocery,2145,583,732,1.9,25
+Beauty,1549,112,369,2.5,18
+Books,540,855,983,3.2,89
+Grocery,2128,204,650,3.8,27
+Clothing,2217,269,609,2.3,34
+Toys and Games,1263,996,1164,2.5,48
+Electronics,2326,798,884,2.0,32
+Automotive,2442,518,933,4.2,51
+Grocery,1592,909,1334,1.8,14
+Toys and Games,1149,383,580,2.3,18
+Home and Kitchen,1731,826,1316,1.0,69
+Grocery,1376,725,795,4.3,43
+Beauty,928,653,889,1.0,39
+Sports and Outdoors,1751,818,989,3.2,49
+Toys and Games,2303,859,1201,4.7,18
+Electronics,2038,766,1092,4.3,14
+Grocery,407,377,554,1.5,58
+Grocery,1095,600,823,2.6,58
+Clothing,487,602,835,3.4,20
+Clothing,650,575,691,3.0,51
+Books,508,80,520,4.8,61
+Beauty,823,536,589,1.5,54
+Toys and Games,1817,124,548,2.0,17
+Home and Kitchen,2445,27,264,3.1,83
+Sports and Outdoors,989,481,884,3.9,85
+Toys and Games,435,720,1076,2.2,59
+Sports and Outdoors,1460,899,1148,1.8,62
+Beauty,786,501,845,1.8,16
+Grocery,1176,233,616,2.0,66
+Toys and Games,1483,169,413,4.0,31
+Clothing,2429,664,722,4.0,85
+Sports and Outdoors,371,927,1351,4.7,54
+Grocery,2359,366,819,4.6,50
+Beauty,1475,215,574,2.4,34
+Automotive,742,382,680,3.2,46
+Toys and Games,1607,676,1041,4.7,90
+Furniture,1256,757,1096,1.7,57
+Home and Kitchen,2114,419,768,4.4,58
+Electronics,2236,223,281,3.8,73
+Beauty,588,38,271,4.8,50
+Electronics,1004,668,869,3.1,13
+Grocery,714,724,869,1.8,18
+Grocery,2163,523,677,3.3,89
+Furniture,1637,503,664,3.5,11
+Beauty,499,323,787,1.3,30
+Furniture,2220,308,478,1.1,53
+Furniture,939,82,551,1.3,62
+Grocery,799,821,1290,3.2,71
+Toys and Games,976,535,699,1.3,71
+Automotive,510,969,1240,3.7,21
+Furniture,612,67,430,4.1,34
+Furniture,1538,539,851,4.4,31
+Electronics,2446,888,1045,4.9,76
+Home and Kitchen,1168,26,231,4.8,43
+Clothing,2477,440,850,1.5,70
+Toys and Games,1678,187,591,2.1,76
+Furniture,1000,442,602,1.3,88
+Furniture,2228,329,787,4.1,52
+Sports and Outdoors,1194,513,703,4.6,29
+Electronics,1049,416,472,4.7,64
+Beauty,1138,273,601,1.1,37
+Beauty,1166,862,1181,4.9,43
+Clothing,886,661,1010,2.2,41
+Home and Kitchen,1064,509,795,4.6,40
+Beauty,1041,400,626,2.5,64
+Furniture,1237,239,683,2.0,63
+Grocery,1713,959,1297,3.1,54
+Furniture,1901,398,499,2.1,41
+Grocery,375,356,423,3.3,20
+Furniture,1504,126,278,4.9,90
+Clothing,1413,231,393,2.0,72
+Electronics,2439,312,546,1.7,17
+Beauty,1648,765,1142,4.1,15
+Grocery,2058,37,204,4.8,16
+Furniture,2281,338,796,4.8,25
+Furniture,608,237,454,2.7,27
+Beauty,1243,679,1163,3.0,24
+Home and Kitchen,943,112,366,1.9,70
+Automotive,2187,846,933,2.5,62
+Grocery,2413,832,1302,3.5,17
+Sports and Outdoors,584,429,830,2.9,76
+Toys and Games,1092,592,717,1.2,30
+Beauty,728,209,627,3.1,47
+Clothing,1300,754,1121,2.9,82
+Sports and Outdoors,1628,79,529,1.8,89
+Electronics,1709,643,994,4.0,67
+Electronics,2233,96,407,3.7,49
+Furniture,456,767,999,4.7,54
+Beauty,1568,183,556,4.7,82
+Sports and Outdoors,1783,822,996,2.8,26
+Beauty,1107,369,773,2.0,77
+Books,1319,989,1421,4.5,38
+Beauty,1076,875,1159,4.0,83
+Grocery,2341,677,1013,4.3,11
+Clothing,1258,561,912,2.9,19
+Furniture,871,707,1088,4.5,45
+Beauty,2416,475,844,2.7,32
+Grocery,1900,884,1044,4.7,84
+Toys and Games,1555,74,410,2.9,79
+Furniture,2377,508,967,1.5,55
+Books,364,129,432,4.6,57
+Home and Kitchen,348,552,762,3.5,34
+Electronics,1655,362,744,2.3,48
+Automotive,1287,476,798,2.0,22
+Furniture,1377,73,341,1.7,31
+Books,1859,16,309,3.4,68
+Beauty,2155,330,495,3.4,43
+Beauty,1042,338,581,3.9,37
+Books,1747,430,504,2.2,78
+Beauty,1758,19,136,4.2,80
+Furniture,946,614,933,2.2,58
+Home and Kitchen,1159,196,605,4.3,16
+Books,2137,531,646,5.0,37
+Beauty,767,917,1030,2.8,39
+Clothing,2350,585,1073,3.9,41
+Beauty,2262,342,478,4.7,66
+Books,1543,199,266,3.1,19
+Books,1265,665,792,4.8,31
+Grocery,779,927,1367,1.8,42
+Automotive,1596,123,562,3.7,62
+Automotive,2353,139,231,2.6,90
+Electronics,1636,463,596,2.0,58
+Books,969,819,1147,3.5,56
+Automotive,1809,798,928,4.1,47
+Books,1267,756,1203,2.0,26
+Books,2136,290,658,3.0,13
+Beauty,870,256,582,1.3,11
+Home and Kitchen,1889,367,723,4.8,17
+Furniture,2366,166,373,1.3,83
+Beauty,1765,921,1305,2.2,34
+Sports and Outdoors,1710,568,1010,1.1,14
+Sports and Outdoors,2043,556,942,3.6,72
+Home and Kitchen,2084,701,1008,2.7,16
+Grocery,1436,537,717,2.6,20
+Grocery,1257,539,711,2.8,58
+Electronics,2443,832,1289,4.9,35
+Electronics,2082,413,479,3.1,59
+Grocery,541,752,802,3.9,61
+Home and Kitchen,1808,261,347,1.0,71
+Books,1031,788,1250,3.7,57
+Grocery,1887,988,1379,2.2,53
+Beauty,2184,249,595,3.2,12
+Electronics,1567,888,1191,1.7,52
+Beauty,549,895,1024,3.2,51
+Beauty,942,831,1098,2.0,13
+Sports and Outdoors,2203,271,501,1.2,75
+Furniture,1542,420,772,3.2,58
+Home and Kitchen,1259,793,1022,2.9,82
+Furniture,742,747,974,2.5,35
+Clothing,1075,997,1497,4.8,86
+Toys and Games,917,789,978,1.5,70
+Books,1872,963,1019,3.9,65
+Sports and Outdoors,974,861,1018,2.5,18
+Furniture,808,102,366,3.1,25
+Toys and Games,1218,548,1006,2.8,73
+Books,2093,214,701,3.4,44
+Grocery,1052,805,863,3.5,45
+Clothing,1486,651,810,1.9,69
+Automotive,2468,176,606,2.3,55
+Books,317,796,1139,2.4,37
+Books,1733,650,957,4.5,52
+Toys and Games,731,322,530,2.0,45
+Grocery,1987,866,978,1.3,84
+Beauty,2168,61,350,4.2,41
+Clothing,858,325,596,4.0,50
+Home and Kitchen,1084,645,703,4.3,44
+Books,968,985,1119,4.6,89
+Home and Kitchen,1543,785,1186,2.6,29
+Clothing,2196,928,1362,3.8,11
+Grocery,1977,510,919,1.9,60
+Automotive,1061,492,862,3.7,51
+Home and Kitchen,1265,259,550,2.1,54
+Home and Kitchen,1324,107,463,3.7,65
+Grocery,686,170,326,4.9,49
+Sports and Outdoors,1818,357,731,1.6,45
+Toys and Games,1053,651,1041,2.6,70
+Electronics,427,59,407,3.5,42
+Grocery,2411,354,670,3.2,62
+Beauty,2059,818,1065,3.3,15
+Books,840,334,654,4.7,88
+Home and Kitchen,545,13,432,2.7,34
+Clothing,1511,823,896,3.1,76
+Clothing,1158,267,728,3.5,13
+Beauty,1981,521,1021,2.4,49
+Books,584,913,1329,4.5,58
+Home and Kitchen,1624,120,556,3.0,48
+Clothing,1039,897,1086,1.2,47
+Beauty,2447,496,727,2.5,82
+Toys and Games,502,193,248,4.3,19
+Furniture,456,910,1292,3.4,33
+Toys and Games,1195,904,1342,2.9,33
+Electronics,1644,756,1067,2.2,57
+Home and Kitchen,2145,628,942,4.7,40
+Beauty,1769,321,502,3.4,42
+Beauty,956,76,517,4.1,17
+Toys and Games,1346,19,101,3.0,36
+Grocery,664,55,377,2.4,42
+Furniture,416,837,1063,3.5,43
+Grocery,1507,253,376,3.3,73
+Grocery,2034,923,1374,4.0,43
+Home and Kitchen,2494,222,652,1.7,42
+Furniture,789,646,742,4.8,49
+Sports and Outdoors,1425,422,591,2.2,63
+Furniture,1859,532,915,3.5,50
+Beauty,1857,555,672,3.4,59
+Sports and Outdoors,2299,385,828,1.9,80
+Automotive,1758,463,660,4.2,62
+Electronics,1492,114,518,3.5,70
+Electronics,602,818,1126,4.3,46
+Books,2113,986,1459,1.9,22
+Electronics,450,959,1215,2.0,56
+Automotive,1235,766,870,3.6,61
+Beauty,1908,240,631,4.2,90
+Grocery,1002,143,582,1.3,58
+Electronics,500,287,763,3.7,16
+Furniture,564,66,325,3.9,34
+Books,1917,888,1004,4.4,24
+Automotive,716,314,496,4.4,83
+Clothing,1639,209,533,1.0,23
+Sports and Outdoors,932,327,580,1.8,62
+Electronics,848,481,693,2.4,78
+Electronics,917,991,1264,3.7,10
+Sports and Outdoors,1273,350,527,2.6,81
+Electronics,781,794,1142,4.9,42
+Furniture,829,880,1293,1.5,67
+Automotive,2446,247,389,1.2,81
+Sports and Outdoors,2283,931,1032,3.8,26
+Electronics,1925,74,147,3.6,19
+Furniture,2419,522,940,3.1,30
+Grocery,2210,118,186,3.0,36
+Electronics,982,434,615,2.8,80
+Clothing,1459,505,914,3.1,52
+Grocery,1128,875,1006,3.0,55
+Books,1016,614,716,3.0,16
+Sports and Outdoors,1640,474,654,3.5,28
+Home and Kitchen,1776,962,1293,1.9,51
+Grocery,2103,107,296,2.5,51
+Furniture,1410,522,895,3.1,35
+Grocery,872,1000,1472,2.0,73
+Books,2115,301,414,4.1,47
+Automotive,787,998,1308,4.5,48
+Electronics,392,264,448,2.7,13
+Toys and Games,1521,628,841,2.8,72
+Home and Kitchen,782,899,1004,1.7,62
+Electronics,1750,119,428,3.6,49
+Beauty,1319,90,518,4.2,53
+Automotive,432,124,307,2.5,26
+Sports and Outdoors,1749,977,1202,3.9,65
+Beauty,907,354,529,2.9,73
+Sports and Outdoors,2419,520,964,4.8,64
+Electronics,1396,286,637,4.6,25
+Books,2287,222,272,1.2,87
+Books,2265,811,950,4.6,55
+Beauty,2395,204,640,1.9,28
+Home and Kitchen,1334,992,1379,4.1,11
+Home and Kitchen,1485,670,1075,1.1,85
+Clothing,1782,382,640,2.4,56
+Furniture,1881,452,862,2.1,71
+Electronics,2274,274,356,1.6,79
+Automotive,1638,869,927,1.3,41
+Toys and Games,2311,572,757,1.3,47
+Sports and Outdoors,2185,755,1168,2.3,36
+Grocery,512,29,189,4.4,28
+Grocery,1597,673,1148,4.8,65
+Home and Kitchen,1995,206,675,2.6,87
+Electronics,2328,500,595,4.7,84
+Furniture,1570,228,624,4.8,53
+Sports and Outdoors,336,554,778,4.9,28
+Books,1939,424,552,2.0,53
+Clothing,2086,441,790,3.6,62
+Sports and Outdoors,1118,420,773,2.3,64
+Sports and Outdoors,625,962,1056,3.2,83
+Sports and Outdoors,1087,793,1205,1.9,53
+Home and Kitchen,789,379,678,1.7,74
+Sports and Outdoors,2442,815,1085,2.5,14
+Electronics,1405,550,697,1.4,18
+Home and Kitchen,1965,301,366,1.2,70
+Furniture,1203,633,876,2.6,52
+Home and Kitchen,496,259,472,4.3,71
+Grocery,1050,385,754,4.0,28
+Clothing,1332,74,250,3.3,31
+Clothing,1885,535,739,2.2,79
+Sports and Outdoors,2153,415,728,3.4,47
+Beauty,611,890,945,1.2,41
+Clothing,1869,731,982,1.8,47
+Clothing,995,367,724,2.0,64
+Electronics,2158,11,400,4.2,49
+Sports and Outdoors,1303,856,950,3.2,85
+Beauty,960,454,925,2.9,74
+Books,2134,860,1138,2.2,48
+Clothing,1869,779,955,4.6,44
+Clothing,872,808,869,1.7,30
+Beauty,2372,579,914,2.7,56
+Furniture,950,679,800,2.5,66
+Toys and Games,689,334,519,2.6,89
+Sports and Outdoors,2256,709,1066,4.3,90
+Automotive,974,556,938,1.6,51
+Automotive,2242,749,969,2.7,50
+Beauty,2363,806,1196,3.6,58
+Books,1879,339,467,1.8,10
+Books,962,638,689,4.9,18
+Sports and Outdoors,989,339,568,3.2,68
+Books,1139,951,1169,1.5,49
+Electronics,472,212,397,3.5,18
+Beauty,1815,143,382,1.6,48
+Furniture,1645,443,827,3.4,23
+Home and Kitchen,1061,876,1193,4.7,14
+Home and Kitchen,1107,419,784,2.6,41
+Beauty,807,330,786,1.6,52
+Home and Kitchen,1152,115,206,1.2,73
+Clothing,2301,363,617,4.6,76
+Furniture,1456,754,827,3.7,75
+Electronics,473,865,1013,4.5,46
+Electronics,1220,950,1151,1.4,12
+Clothing,1969,121,347,1.7,55
+Beauty,760,478,531,2.3,72
+Home and Kitchen,1706,398,470,1.9,73
+Electronics,659,679,1098,3.0,31
+Toys and Games,1447,579,917,3.9,29
+Beauty,2259,328,557,3.5,76
+Home and Kitchen,2378,145,314,3.9,78
+Clothing,1572,44,264,4.9,44
+Automotive,2484,714,854,4.7,26
+Home and Kitchen,806,146,421,4.6,55
+Toys and Games,2296,810,1215,3.5,66
+Grocery,1185,304,452,1.7,80
+Books,2054,960,1419,3.2,29
+Clothing,1591,293,782,3.4,37
+Toys and Games,2433,185,414,1.4,68
+Furniture,2467,55,505,4.3,80
+Toys and Games,2392,502,559,1.8,28
+Books,2477,728,990,4.3,77
+Toys and Games,1463,634,1094,3.5,21
+Books,565,197,643,2.1,62
+Toys and Games,1851,54,322,3.6,37
+Sports and Outdoors,1265,682,1136,4.5,77
+Automotive,2375,592,898,3.5,35
+Clothing,2175,534,704,3.9,69
+Automotive,1876,924,1095,1.6,48
+Sports and Outdoors,1773,465,571,3.5,24
+Beauty,1660,704,1185,2.9,34
+Beauty,518,154,212,2.3,17
+Grocery,2146,36,453,1.5,11
+Grocery,1461,722,1221,2.5,28
+Toys and Games,1355,170,251,1.9,37
+Home and Kitchen,1529,539,705,4.9,60
+Grocery,1172,189,485,2.8,63
+Books,2023,792,921,1.6,13
+Automotive,1167,814,1302,2.7,40
+Toys and Games,1744,741,1064,1.9,13
+Clothing,1691,897,1064,2.5,24
+Automotive,2215,52,471,3.8,57
+Toys and Games,1311,229,669,3.2,67
+Beauty,2041,434,727,4.6,80
+Books,1154,554,658,1.9,24
+Electronics,1336,595,827,2.4,43
+Clothing,1785,584,986,3.7,60
+Automotive,904,230,485,1.9,66
+Electronics,1539,280,712,3.4,69
+Clothing,2115,35,119,4.7,70
+Beauty,1147,130,310,3.2,35
+Home and Kitchen,1143,811,960,2.2,48
+Books,1940,778,1009,3.2,51
+Sports and Outdoors,2045,327,752,4.1,75
+Electronics,1919,896,1139,3.6,65
+Electronics,379,14,145,3.2,20
+Beauty,718,371,680,2.5,88
+Furniture,2093,654,765,3.4,81
+Books,1919,351,449,3.7,63
+Toys and Games,2333,637,900,1.8,39
+Electronics,997,342,739,2.6,57
+Furniture,1245,511,777,4.7,21
+Electronics,854,679,1178,4.9,34
+Furniture,1970,674,763,3.1,84
+Books,674,717,829,2.7,69
+Clothing,1380,58,188,3.0,27
+Home and Kitchen,1273,652,1075,3.2,19
+Sports and Outdoors,2066,863,1174,3.8,51
+Automotive,897,951,1428,4.8,75
+Toys and Games,1975,704,975,1.4,62
+Books,1076,604,862,1.1,48
+Electronics,614,903,954,1.6,21
+Home and Kitchen,1982,717,1156,4.4,88
+Sports and Outdoors,1805,46,327,4.5,51
+Toys and Games,627,670,907,1.9,64
+Sports and Outdoors,1969,348,587,4.0,19
+Automotive,864,330,581,4.7,68
+Sports and Outdoors,325,739,890,4.1,65
+Clothing,491,495,665,2.8,32
+Clothing,930,392,702,2.6,87
+Beauty,1533,32,167,2.8,53
+Clothing,1071,721,973,2.3,76
+Toys and Games,324,385,648,4.5,29
+Beauty,2125,957,1306,1.4,71
+Automotive,1207,70,257,1.7,40
+Furniture,818,92,219,3.6,76
+Toys and Games,852,617,987,4.3,76
+Clothing,2055,172,312,2.5,50
+Clothing,419,513,588,3.4,81
+Sports and Outdoors,2038,287,708,2.0,40
+Grocery,1610,597,874,2.2,16
+Clothing,1299,759,980,4.5,64
+Furniture,1577,50,321,2.2,86
+Toys and Games,594,795,1023,1.6,13
+Home and Kitchen,2046,547,899,3.9,32
+Automotive,1269,201,358,1.6,62
+Grocery,572,359,691,1.5,50
+Sports and Outdoors,347,741,962,3.0,35
+Toys and Games,1827,220,525,1.7,44
+Furniture,739,589,963,1.8,51
+Sports and Outdoors,1107,934,1021,4.5,70
+Electronics,993,159,224,1.7,22
+Beauty,1668,567,1049,3.1,26
+Grocery,1322,681,1151,4.4,62
+Electronics,2107,766,1038,2.2,67
+Furniture,1014,939,1095,1.1,23
+Electronics,2480,883,993,4.8,44
+Beauty,850,553,701,1.2,21
+Home and Kitchen,1965,317,662,4.4,57
+Grocery,1199,982,1282,1.6,51
+Furniture,472,671,1078,1.6,31
+Clothing,2025,270,460,1.8,25
+Furniture,1006,984,1253,4.7,60
+Clothing,2121,116,350,2.4,39
+Automotive,1663,32,528,1.3,21
+Clothing,673,231,488,3.4,51
+Books,783,583,835,3.9,23
+Sports and Outdoors,318,347,765,4.8,63
+Home and Kitchen,620,326,693,2.5,19
+Books,1444,259,456,1.3,44
+Grocery,302,141,327,2.4,42
+Automotive,1977,903,1146,2.6,31
+Furniture,1715,181,383,3.1,10
+Toys and Games,978,581,1002,1.6,64
+Clothing,1872,232,584,3.7,25
+Furniture,2057,198,302,4.7,12
+Electronics,1874,752,1105,4.6,80
+Sports and Outdoors,1703,619,757,4.4,75
+Grocery,683,935,1198,3.7,16
+Furniture,2102,969,1153,3.2,44
+Clothing,1126,419,822,3.6,73
+Automotive,1981,165,335,4.4,60
+Books,2373,340,666,3.1,55
+Electronics,1949,173,297,2.0,45
+Sports and Outdoors,870,318,430,1.7,28
+Toys and Games,2391,56,450,4.8,30
+Grocery,581,654,812,4.4,38
+Sports and Outdoors,1069,502,603,2.6,13
+Books,2071,774,1217,4.1,86
+Toys and Games,644,550,664,2.7,73
+Books,1568,46,376,3.2,68
+Automotive,1986,749,940,2.4,39
+Automotive,466,291,733,2.0,32
+Automotive,487,648,883,4.5,20
+Books,1733,867,1192,1.8,44
+Furniture,1166,140,489,4.3,15
+Grocery,1144,494,882,3.4,65
+Beauty,1379,150,249,4.8,25
+Toys and Games,1371,886,967,3.8,43
+Grocery,1809,754,1006,2.5,20
+Furniture,498,841,1136,1.6,25
+Electronics,1149,905,1402,1.9,37
+Clothing,959,85,361,1.7,76
+Automotive,1263,69,144,1.3,47
+Electronics,559,489,985,2.7,64
+Home and Kitchen,1191,644,997,2.1,34
+Sports and Outdoors,2085,669,993,3.5,15
+Electronics,2107,903,1276,3.2,46
+Electronics,1529,317,639,1.3,28
+Automotive,1618,653,704,3.7,59
+Books,2432,232,551,4.2,41
+Home and Kitchen,536,682,1132,2.4,61
+Beauty,858,431,481,4.0,64
+Books,393,370,823,1.9,55
+Grocery,2094,120,566,2.6,34
+Sports and Outdoors,643,575,1001,1.7,79
+Grocery,762,559,975,3.0,32
+Books,988,297,597,1.9,79
+Beauty,762,96,288,2.0,48
+Clothing,1898,444,618,1.3,86
+Beauty,1873,816,1020,2.7,48
+Sports and Outdoors,1870,70,421,1.5,48
+Home and Kitchen,1274,709,1003,3.8,26
+Toys and Games,1787,957,1094,1.8,59
+Electronics,1815,948,1020,3.3,89
+Beauty,1148,373,507,2.0,23
+Home and Kitchen,2262,10,428,4.6,33
+Electronics,1566,519,1011,2.6,12
+Home and Kitchen,817,17,125,3.3,87
+Clothing,1998,700,912,3.8,27
+Sports and Outdoors,1864,528,659,4.1,44
+Sports and Outdoors,1455,94,534,1.1,38
+Electronics,2065,481,935,1.5,19
+Automotive,1132,930,1239,1.9,66
+Toys and Games,309,526,787,1.9,89
+Automotive,2416,777,1170,4.1,54
+Home and Kitchen,1140,400,633,4.5,69
+Sports and Outdoors,438,531,582,4.9,12
+Toys and Games,1174,126,597,2.8,28
+Automotive,1799,344,834,3.6,83
+Toys and Games,357,129,245,2.2,61
+Books,2006,986,1394,4.4,40
+Grocery,1826,287,438,2.2,27
+Books,2454,935,1067,3.4,15
+Furniture,1416,36,375,2.5,77
+Beauty,684,305,797,5.0,58
+Toys and Games,2064,463,572,3.7,51
+Automotive,1050,242,464,2.8,40
+Home and Kitchen,1625,899,1018,1.2,18
+Furniture,681,847,1152,1.5,50
+Furniture,1618,705,1139,3.1,11
+Beauty,1933,643,1096,2.0,75
+Beauty,2441,947,1255,4.6,54
+Books,2352,562,814,2.0,90
+Grocery,388,475,571,1.9,62
+Sports and Outdoors,2389,409,742,1.4,21
+Clothing,1758,783,1105,3.0,79
+Automotive,1088,431,548,1.7,32
+Home and Kitchen,1155,893,1305,1.5,37
+Electronics,1657,18,488,4.5,87
+Home and Kitchen,439,426,788,4.8,68
+Books,723,601,668,2.8,90
+Electronics,765,866,1230,4.5,33
+Sports and Outdoors,867,983,1047,4.5,70
+Electronics,580,11,477,1.9,45
+Home and Kitchen,2485,586,879,3.0,35
+Clothing,365,224,355,3.3,48
+Electronics,1923,136,559,3.4,76
+Grocery,650,499,619,4.5,37
+Beauty,1497,633,806,1.3,15
+Clothing,2268,120,288,4.6,39
+Home and Kitchen,1430,813,1172,5.0,63
+Electronics,1653,482,553,3.5,58
+Automotive,1173,786,841,2.1,20
+Grocery,1843,278,548,3.9,37
+Beauty,1935,558,803,1.3,89
+Grocery,2481,564,887,4.3,74
+Home and Kitchen,914,265,607,4.9,69
+Books,1590,820,1315,1.3,16
+Automotive,652,152,539,2.2,78
+Sports and Outdoors,918,868,924,4.5,26
+Sports and Outdoors,549,969,1254,5.0,30
+Books,1576,39,116,4.0,75
+Furniture,1029,235,296,1.1,40
+Electronics,788,414,513,4.8,62
+Clothing,1274,105,435,1.6,15
+Clothing,1728,895,1032,3.3,62
+Electronics,702,818,1274,4.8,52
+Furniture,453,650,758,1.6,70
+Grocery,400,45,284,3.0,39
+Automotive,343,849,1340,2.5,89
+Books,1611,786,1099,3.1,80
+Sports and Outdoors,1578,956,1344,1.8,52
+Automotive,1055,884,1323,1.3,23
+Furniture,1590,744,851,3.0,56
+Toys and Games,709,90,409,1.1,14
+Beauty,975,247,746,5.0,56
+Clothing,880,974,1466,2.1,84
+Home and Kitchen,1470,566,886,3.3,79
+Clothing,1011,416,859,2.9,13
+Books,1571,963,1135,4.1,28
+Clothing,1430,504,754,3.8,22
+Furniture,2056,769,901,4.1,20
+Grocery,598,20,316,2.8,38
+Automotive,2477,259,622,1.4,55
+Sports and Outdoors,1102,289,376,2.5,39
+Toys and Games,1418,356,455,2.1,86
+Beauty,660,105,383,1.8,61
+Books,880,67,503,3.1,49
+Beauty,1323,268,499,4.4,74
+Toys and Games,807,682,1046,2.7,87
+Clothing,1439,144,618,1.6,22
+Grocery,722,917,970,1.4,68
+Beauty,2436,118,585,2.6,14
+Home and Kitchen,1318,919,1412,1.2,53
+Grocery,375,274,754,4.3,80
+Books,1941,202,427,2.1,53
+Sports and Outdoors,591,951,1322,2.8,41
+Toys and Games,1631,385,748,4.8,25
+Books,540,515,998,4.5,82
+Clothing,1830,188,445,2.9,62
+Electronics,1928,124,255,2.4,51
+Books,677,59,302,3.1,57
+Books,1960,682,1015,4.0,76
+Electronics,1253,425,770,2.3,68
+Clothing,699,893,1020,3.6,24
+Grocery,1856,908,1174,5.0,18
+Furniture,2220,797,1086,1.6,15
+Clothing,691,706,1005,3.1,16
+Home and Kitchen,865,725,934,3.6,38
+Automotive,702,326,626,3.7,89
+Furniture,661,240,493,1.1,46
+Beauty,2416,358,570,4.3,49
+Clothing,1516,590,1009,3.1,21
+Grocery,2474,961,1166,1.3,25
+Home and Kitchen,390,167,374,3.9,65
+Electronics,2084,297,716,2.3,81
+Grocery,1109,384,670,4.5,48
+Clothing,1372,308,518,1.9,50
+Home and Kitchen,2148,384,762,2.4,52
+Sports and Outdoors,839,415,498,4.8,43
+Beauty,2221,609,913,2.3,56
+Books,2181,530,589,3.0,75
+Beauty,2326,349,774,1.3,77
+Toys and Games,1389,277,360,2.2,11
+Automotive,637,912,1328,2.7,62
+Automotive,708,986,1221,3.9,57
+Clothing,989,319,525,3.0,43
+Home and Kitchen,1362,404,587,4.5,15
+Electronics,1085,784,1146,3.0,21
+Clothing,604,776,1008,2.4,20
+Clothing,1179,492,657,4.5,59
+Sports and Outdoors,1432,322,439,4.8,21
+Grocery,1231,189,525,3.2,89
+Automotive,659,663,1107,1.7,29
+Sports and Outdoors,1628,67,157,2.5,64
+Beauty,2096,642,1087,1.8,82
+Grocery,2209,608,733,3.5,41
+Electronics,819,821,1118,2.9,63
+Grocery,1483,788,978,3.6,38
+Electronics,884,405,751,1.1,19
+Home and Kitchen,2281,162,611,2.7,38
+Electronics,2263,331,570,3.8,15
+Clothing,1192,353,689,4.0,34
+Beauty,2364,264,652,3.1,10
+Beauty,2145,188,244,2.2,37
+Sports and Outdoors,317,858,986,4.8,70
+Home and Kitchen,1962,75,178,2.0,29
+Clothing,2099,497,842,2.6,46
+Home and Kitchen,1602,617,688,3.7,59
+Automotive,749,978,1147,3.3,17
+Electronics,1610,352,497,1.2,53
+Grocery,1470,178,546,1.4,73
+Beauty,1095,333,651,3.1,62
+Toys and Games,722,546,887,2.0,34
+Automotive,1077,30,95,3.2,89
+Home and Kitchen,2162,904,1263,2.2,72
+Sports and Outdoors,1978,234,294,4.7,58
+Toys and Games,1497,541,710,1.2,39
+Home and Kitchen,737,974,1464,4.3,12
+Beauty,2244,525,584,4.5,47
+Furniture,579,406,654,4.7,23
+Sports and Outdoors,1470,371,563,3.1,24
+Automotive,1740,720,1149,2.4,52
+Grocery,455,57,443,4.9,76
+Furniture,1535,904,1346,2.8,23
+Furniture,1266,319,453,1.7,69
+Beauty,535,247,380,4.5,26
+Grocery,805,678,901,3.1,28
+Furniture,1183,163,521,3.3,26
+Automotive,543,450,841,2.9,86
+Toys and Games,2488,247,359,4.1,10
+Grocery,1791,164,225,2.3,81
+Clothing,858,243,383,4.3,17
+Clothing,1534,926,1124,1.5,28
+Electronics,960,435,502,1.7,71
+Automotive,2206,736,831,1.2,24
+Toys and Games,1295,805,1040,4.8,70
+Clothing,519,484,829,2.4,33
+Furniture,2383,720,896,4.7,71
+Toys and Games,755,780,1265,2.5,52
+Automotive,1280,361,574,3.6,27
+Books,1373,248,748,4.9,23
+Books,1775,31,241,3.4,56
+Automotive,2276,98,568,3.6,38
+Automotive,2197,197,651,3.4,39
+Electronics,360,13,331,3.3,34
+Sports and Outdoors,719,127,236,1.8,13
+Beauty,1586,423,820,1.4,62
+Beauty,337,477,940,4.7,26
+Automotive,1359,48,427,2.0,60
+Clothing,489,497,936,4.9,43
+Automotive,2052,716,1104,3.2,39
+Toys and Games,1321,12,149,2.4,63
+Books,1225,174,650,2.3,54
+Furniture,1839,905,1070,1.2,80
+Beauty,1593,326,667,2.4,50
+Home and Kitchen,1205,227,538,2.7,29
+Furniture,2340,143,327,2.0,27
+Books,1856,26,115,3.8,34
+Toys and Games,305,103,182,3.4,51
+Furniture,1797,32,297,3.5,50
+Home and Kitchen,1220,552,968,4.8,35
+Home and Kitchen,1943,447,893,4.9,83
+Toys and Games,986,184,554,1.4,43
+Toys and Games,1131,958,1373,2.4,65
+Beauty,1843,334,464,3.6,43
+Furniture,2041,560,982,3.5,21
+Home and Kitchen,2066,222,419,3.7,39
+Automotive,1485,757,1150,3.8,60
+Clothing,1573,959,1121,4.0,53
+Grocery,2342,538,998,4.9,18
+Furniture,2293,107,427,2.7,46
+Home and Kitchen,1731,152,609,5.0,64
+Books,2377,419,580,3.9,52
+Books,1320,415,813,3.6,29
+Beauty,2077,981,1179,4.1,12
+Toys and Games,1187,726,970,4.6,13
